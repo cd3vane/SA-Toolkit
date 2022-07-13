@@ -10,7 +10,9 @@ Output: Renamed HTML files (Default: <title> tag)
 
 ## JSON to HTML (json_to_html.py)
 Input: Selcted JSON files to convert (.json), # of keys to parse, and keys for parsing  
-Output: Single HTML file containing values from all parsed JSON keys wrapped in <p></p> tags
+Output: Single HTML file containing values from all parsed JSON keys wrapped in p tags
+
+
 
 # Other Useful Files
 
