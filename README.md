@@ -1,6 +1,6 @@
 # Included Scripts
 
-## Create HTML File for Data Dump (data_dump.py)
+## Format HTML File for Data Dump (data_dump.py)
 Input: Segment list file (.txt)  
 Output: Formatted HTML file
 
